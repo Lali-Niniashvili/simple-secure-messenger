@@ -1,12 +1,9 @@
 # simple-secure-messenger
 
-A beginner-friendly Python app demonstrating **AES encryption** (via Fernet) for secure messaging.
+Beginner-friendly **secure chat simulator** using **AES + HMAC** (Fernet).
 
-## Features
-- Encrypt/decrypt messages
-- Integrity check (HMAC)
-- Shared secret key
+## Quick Start
 
-## Install
 ```bash
 pip install -r requirements.txt
+python main.py
